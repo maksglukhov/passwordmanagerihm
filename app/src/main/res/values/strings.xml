@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="welcome_to_password_manager">Welcome to password manager</string>
+    <string name="start">Start</string>
+    <string name="exit">Exit</string>
+    <string name="enter_website">Enter website:</string>
+    <string name="enter_login">Enter login:</string>
+    <string name="enter_password">Enter password:</string>
+
+    <string name="add_password">Add password</string>
+    <string name="website">Website</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+
+    <string name="change_password">Change password</string>
+    <string name="strange_of_password">Strength of password</string>
+    <string name="generate_password">Generate password</string>
+    <string name="enter_your_code_to_access">Enter your code to access:</string>
+
+    <string name="enter_new_login">Enter new login:</string>
+    <string name="enter_new_code">Enter new code:</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_username">Enter username:</string>
+    <string name="enter_code">Enter code:</string>
+    <string name="create">Create</string>
+    <string name="new_user">new user</string>
+    <string name="log_in">log in</string>
+    <string name="apply">Apply</string>
+    <string name="explanation">If you have already generated the password, please tap on red button back. This password will appear in corresponding case. Sorry for that, we will do it automatically in the future update.</string>
+    <string name="copyd">Copied</string>
+    <string name="back">Back</string>
+    <string name="numbers">numbers</string>
+    <string name="small_letters">small letters</string>
+    <string name="capital_letters">capital letters</string>
+    <string name="special_symbols">special symbols</string>
+    <string name="choose_the_length_of_password">Choose the length of password</string>
+    <string name="generate">Generate</string>
+
+    <string name="user_created"> is created</string>
+    <string name="pin_error"> Your pin cannot be empty or contain spaces</string>
+    <string name="pin_error2"> You choosed Pin with 6 numbers, so only that is permitted!</string>
+    <string name="pin_error3"> You choosed Pin with 4 numbers, so only that is permitted!</string>
+    <string name="creat_user_error"> User with this name already exists, please choose another</string>
+    <string name="creat_user_error2"> Username cannot be empty</string>
+    <string name="checkpin_error"> False code</string>
+    <string name="updated"> updated</string>
+    <string name="chang"> input fields cannot be empty</string>
+    <string name="deletd"> Deleted</string>
+    <string name="choose_it"> Copied</string>
+    <string name="listener_error"> input fields cannot be empty!</string>
+    <string name="listener_error2"> this website already saved with this login and password!</string>
+    <string name="listener_error3"> Successfully added</string>
+    <string name="add_NewPassword">Add new password</string>
+    <string name="allmy">All my passwords</string>
+    <string name="chgusrnm">Change username/code</string>
+    <string name="chooseaction">Choose the action</string>
+    <string name="PasswordManager">Password Manager</string>
+
+    <string name="crtUs">Create user</string>
+    <string name="choser">Choose user</string>
+    <string name="addords">Add passwords</string>
+    <string name="allords">All passwords</string>
+    <string name="changile">Change profile</string>
+    <string name="veric">Verification</string>
+    <string name="changadord">Change saved password</string>
+    <string name="generord">Generate password</string>
+    <string name="generatord">Generated password</string>
+
+    <string name="displod">Display password</string>
+    <string name="copin">Copy login</string>
+    <string name="copord">Copy password</string>
+    <string name="chord">Change website/login/password</string>
+    <string name="deletord">Delete password</string>
+
+    <string name="yord">Your password</string>
+    <string name="close">Close</string>
+    <string name="Confirmation">Confirmation</string>
+    <string name="ays">Are you sure?</string>
+    <string name="del">Delete</string>
+
+    <string name="question1">Do you want to create new user or to log in?</string>
+
+
+
+
+
+
+
+
+
+</resources>
